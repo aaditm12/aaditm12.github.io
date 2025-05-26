@@ -6,5 +6,5 @@
 # About Me
 ## My Interests
 ## Websites I Recommend
--[Youtube](https://www.youtube.com)- I use youtube to find and watch videos for financial education like investing in stocks and bonds. 
--[Wikipedia](https://www.wikipedia.org)- I use wikipedia to do research on any topic. 
+- [Youtube](https://www.youtube.com)- I use youtube to find and watch videos for financial education like investing in stocks and bonds. 
+- [Wikipedia](https://www.wikipedia.org)- I use wikipedia to do research on any topic. 
